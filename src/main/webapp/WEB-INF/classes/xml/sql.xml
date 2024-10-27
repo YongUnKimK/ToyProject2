@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	
+	<!--  할 일 전체 조회  -->
+	<entry key="todoListFullView">
+SELECT * FROM TB_STUDENT
+ORDER BY STD_NO ASC
+	</entry>
+	
+	
+	
+	
+	
+	
+	
+
+</properties>
